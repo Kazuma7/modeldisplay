@@ -1,0 +1,14 @@
+{
+  "name": "pythonwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "php -S localhost:8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.114.0"
+  }
+}
